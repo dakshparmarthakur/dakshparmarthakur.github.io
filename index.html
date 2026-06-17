@@ -15,13 +15,36 @@
             justify-content: center;
             height: 100vh;
             margin: 0;
+            position: relative;
         }
         h1 { color: #4CAF50; font-size: 3rem; margin-bottom: 10px; }
-        p { color: #bbbbbb; font-size: 1.2rem; }
+        p { color: #bbbbbb; font-size: 1.2rem; text-align: center; max-width: 500px; line-height: 1.6; }
+        
+        /* Footer style for the Privacy Policy link */
+        footer {
+            position: absolute;
+            bottom: 20px;
+        }
+        footer a {
+            color: #4CAF50;
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s;
+        }
+        footer a:hover {
+            color: #81C784;
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
+
     <h1>Games Of Daksh</h1>
-    <p>Welcome to the official home of Games Of Daksh. Exciting mobile games coming soon!</p>
+    <p>Welcome to the official home of Games Of Daksh. Exciting mobile games are currently in development!</p>
+
+    <footer>
+        <a href="https://dakshparmarthakur.github.io/privacy-policy/" target="_blank">Privacy Policy</a>
+    </footer>
+
 </body>
 </html>
