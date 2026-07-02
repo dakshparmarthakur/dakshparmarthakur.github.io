@@ -1,5 +1,4 @@
-# Games Of Daksh Authorized Ad Networks
-google.com, 
-
-pub-4325407216364180, DIRECT, f08c47fec0942fa0
+OWNERDOMAIN=dakshparmarthakur.github.io
+google.com, pub-4325407216364180, DIRECT, f08c47fec0942fa0
 unityads.com, 13469930238559, DIRECT
+start.io, 117482945, DIRECT
