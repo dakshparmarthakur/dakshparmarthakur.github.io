@@ -1,2 +1,2 @@
-OWNERDOMAIN=dakshparmarthakur.github.io
+ownerdomain=dakshparmarthakur.github.io
 google.com, pub-4325407216364180, DIRECT, f08c47fec0942fa0
